@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+pandas==3.0.3
+numpy>=2.3.3
+python-multipart
+google-generativeai
+python-dotenv
